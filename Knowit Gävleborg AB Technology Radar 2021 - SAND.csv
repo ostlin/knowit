@@ -1,0 +1,28 @@
+name,quadrant,ring,isNew,description
+Scrum,Arbetssätt/Metod,Tillämpa,TRUE,Agil metodik med roller och ritualer 
+"Projektledning, agil",Arbetssätt/Metod,Tillämpa,TRUE,
+.NET Core,Plattform,Tillämpa,TRUE,
+MS SQL Server,Plattform,Tillämpa,TRUE,Databas
+Angular,Språk,Tillämpa,TRUE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter
+Node.js,Språk,Tillämpa,TRUE,
+TypeScript,Språk,Tillämpa,TRUE,Språk för webbutveckling
+C#,Språk,Tillämpa,TRUE,
+Microservices,Verktyg,Utvärdera,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
+AI/ML,Verktyg,Utvärdera,TRUE,
+Azure,Plattform,Tillämpa,TRUE,"Molnplattform för drift av applikationer och system, ska användas Mining och Coromant."
+.NET Framework,Plattform,Avvakta,TRUE,"Används, men inget nytt byggs i detta. EOL"
+Sharepoint,Plattform,Avvakta,TRUE,
+Selenium,Verktyg,Prova,TRUE,
+Visual Studio,Verktyg,Tillämpa,TRUE,
+Jasmin/Karma,Verktyg,Tillämpa,TRUE,Testramverk för JS-tester av
+AngularJS,Språk,Avvakta,TRUE,Gammal version av Angular EOL
+MS DevOps,Verktyg,Tillämpa,TRUE,"Verktyg för Kanban, CI/CD och versionshantering"
+git,Verktyg,Tillämpa,TRUE,Versionshanteringsverktyg
+Slack,Plattform,Tillämpa,TRUE,
+MS Teams,Plattform,Tillämpa,TRUE,
+Visual Code,Verktyg,Tillämpa,TRUE,
+Powershell,Språk,Tillämpa,TRUE,
+Splunk,Plattform,Tillämpa,TRUE,Loggverktyg
+Google Analytics,Verktyg,Tillämpa,TRUE,
+Entity Framework,Språk,Tillämpa,TRUE,ORM-verktyg
+Vue,Språk,Tillämpa,TRUE,

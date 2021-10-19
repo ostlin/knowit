@@ -1,0 +1,41 @@
+name,quadrant,ring,isNew,description
+Scrum,Arbetssätt/Metod,Tillämpa,TRUE,Agil metodik med roller och ritualer 
+"Projektledning, agil",Arbetssätt/Metod,Tillämpa,TRUE,
+Node.js,Språk,Tillämpa,TRUE,
+Microservices,Verktyg,Tillämpa,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
+SBE,Arbetssätt/Metod,Tillämpa,TRUE,Specification By Example. Ett sätt att arbeta fram och dokumentera krav som blir tydliga och enkla att förstå. Se även Cucumber.
+Kanban,Arbetssätt/Metod,Tillämpa,TRUE,Ett verktyg för att visualisera kommande och pågående arbete samt möjlighet att identifiera flaskhalsar i flödet och organisera arbetet.
+SAFe-ish,Arbetssätt/Metod,Tillämpa,TRUE,"Plockat några godbitar ur SAFe, men kör inte hela paketet."
+Kibana / Elastic search,Plattform,Tillämpa,TRUE,Elk stacken
+Mattermost,Plattform,Tillämpa,TRUE,"Chat, typ Slack"
+OpenShift,Plattform,Tillämpa,TRUE,CaaS (Container as a Service) för drift av containers. Redhats anpassning av Kubernetes.
+Open Metrics,Plattform,Tillämpa,TRUE,Hämta mätdata
+JMS,Plattform,Tillämpa,TRUE,
+Vue,Språk,Tillämpa,TRUE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter
+Java 11,Språk,Tillämpa,TRUE,
+EJB,Språk,Tillämpa,TRUE,
+Java 8,Språk,Tillämpa,TRUE,På grund av miljö är man ibland tvungen att välja Java 8
+C++,Språk,Tillämpa,TRUE,
+Infrastruktur som kod,Verktyg,Tillämpa,TRUE,
+BPM,Verktyg,Tillämpa,TRUE,IBMs version på FK
+ETE,Verktyg,Tillämpa,TRUE,Häxkonst för Verktygdata
+Cucumber,Verktyg,Tillämpa,TRUE,Vertyg för dokumentation av krav (Gherkin-syntax) samt testautomatisering av dessa krav
+Selenium,Verktyg,Tillämpa,TRUE,"Ett verktyg för att programmatiskt köra webbapplikationer, t ex vid automatisering av tester"
+VerktygFlow,Verktyg,Tillämpa,TRUE,Add-on i Jira
+AI/ML,Verktyg,Utvärdera,TRUE,
+Java 13,Språk,Utvärdera,TRUE,
+Cobol,Språk,Utvärdera,TRUE,Programmeringsspåk för stordator
+Service Mesh,Verktyg,Utvärdera,TRUE,Konfigurerbar infrastruktur för Microservices
+Cypress,Verktyg,Utvärdera,TRUE,Vertyg för automatisering av testning av webbapplikationer
+WireMock,Verktyg,Utvärdera,TRUE,
+SonarQube,Verktyg,Utvärdera,TRUE,"Automatisk kodanalys för att se tekniskt skuld, testtäckning, möjliga buggar och för stora klasser, mm"
+Kotlin,Språk,Prova,TRUE,"Programmeringsspråk framtaget av Jetbrains. Används ofta i Android-utveckling, men har även blivit populärt i backend."
+Quarkus,Språk,Prova,TRUE,
+SAFe by the book,Arbetssätt/Metod,Avvakta,TRUE,Ett stort paket med metder för att hantera beroenden mellan team och utvecklingsinsatser i stora organisationer
+"Projektledning, traditionell",Arbetssätt/Metod,Avvakta,TRUE,
+SOAP,Plattform,Avvakta,TRUE,Format för strukturering av XML för användning t ex via webbservices eller meddelandebuss
+Low-code plattformar,Plattform,Avvakta,TRUE,
+ORM,Plattform,Avvakta,TRUE,"Verktyg för att mappa relationsdatabaser i kod, t ex Hibernate och Eclipselink"
+Weblogic Server,Plattform,Avvakta,TRUE,Applikationsserver för att drifta Java-applikationer
+FitNesse,Verktyg,Avvakta,TRUE,Ett testverktyg för automatisering av tester
+Puppet,Verktyg,Avvakta,TRUE,Ett verktyg för att på ett automatiserat sätt installera och konfigurera servrar.
