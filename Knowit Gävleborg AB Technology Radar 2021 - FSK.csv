@@ -1,41 +1,69 @@
-name,quadrant,ring,isNew,description
-Scrum,Arbetssätt/Metod,Tillämpa,TRUE,Agil metodik med roller och ritualer 
-"Projektledning, agil",Arbetssätt/Metod,Tillämpa,TRUE,
-Node.js,Språk,Tillämpa,TRUE,
-Microservices,Verktyg,Tillämpa,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
-SBE,Arbetssätt/Metod,Tillämpa,TRUE,Specification By Example. Ett sätt att arbeta fram och dokumentera krav som blir tydliga och enkla att förstå. Se även Cucumber.
-Kanban,Arbetssätt/Metod,Tillämpa,TRUE,Ett verktyg för att visualisera kommande och pågående arbete samt möjlighet att identifiera flaskhalsar i flödet och organisera arbetet.
-SAFe-ish,Arbetssätt/Metod,Tillämpa,TRUE,"Plockat några godbitar ur SAFe, men kör inte hela paketet."
-Kibana / Elastic search,Plattform,Tillämpa,TRUE,Elk stacken
-Mattermost,Plattform,Tillämpa,TRUE,"Chat, typ Slack"
-OpenShift,Plattform,Tillämpa,TRUE,CaaS (Container as a Service) för drift av containers. Redhats anpassning av Kubernetes.
-Open Metrics,Plattform,Tillämpa,TRUE,Hämta mätdata
-JMS,Plattform,Tillämpa,TRUE,
-Vue,Språk,Tillämpa,TRUE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter
-Java 11,Språk,Tillämpa,TRUE,
-EJB,Språk,Tillämpa,TRUE,
-Java 8,Språk,Tillämpa,TRUE,På grund av miljö är man ibland tvungen att välja Java 8
-C++,Språk,Tillämpa,TRUE,
-Infrastruktur som kod,Verktyg,Tillämpa,TRUE,
-BPM,Verktyg,Tillämpa,TRUE,IBMs version på FK
-ETE,Verktyg,Tillämpa,TRUE,Häxkonst för Verktygdata
-Cucumber,Verktyg,Tillämpa,TRUE,Vertyg för dokumentation av krav (Gherkin-syntax) samt testautomatisering av dessa krav
-Selenium,Verktyg,Tillämpa,TRUE,"Ett verktyg för att programmatiskt köra webbapplikationer, t ex vid automatisering av tester"
-VerktygFlow,Verktyg,Tillämpa,TRUE,Add-on i Jira
-AI/ML,Verktyg,Utvärdera,TRUE,
-Java 13,Språk,Utvärdera,TRUE,
-Cobol,Språk,Utvärdera,TRUE,Programmeringsspåk för stordator
-Service Mesh,Verktyg,Utvärdera,TRUE,Konfigurerbar infrastruktur för Microservices
-Cypress,Verktyg,Utvärdera,TRUE,Vertyg för automatisering av testning av webbapplikationer
-WireMock,Verktyg,Utvärdera,TRUE,
-SonarQube,Verktyg,Utvärdera,TRUE,"Automatisk kodanalys för att se tekniskt skuld, testtäckning, möjliga buggar och för stora klasser, mm"
-Kotlin,Språk,Prova,TRUE,"Programmeringsspråk framtaget av Jetbrains. Används ofta i Android-utveckling, men har även blivit populärt i backend."
-Quarkus,Språk,Prova,TRUE,
-SAFe by the book,Arbetssätt/Metod,Avvakta,TRUE,Ett stort paket med metder för att hantera beroenden mellan team och utvecklingsinsatser i stora organisationer
-"Projektledning, traditionell",Arbetssätt/Metod,Avvakta,TRUE,
-SOAP,Plattform,Avvakta,TRUE,Format för strukturering av XML för användning t ex via webbservices eller meddelandebuss
-Low-code plattformar,Plattform,Avvakta,TRUE,
-ORM,Plattform,Avvakta,TRUE,"Verktyg för att mappa relationsdatabaser i kod, t ex Hibernate och Eclipselink"
-Weblogic Server,Plattform,Avvakta,TRUE,Applikationsserver för att drifta Java-applikationer
-FitNesse,Verktyg,Avvakta,TRUE,Ett testverktyg för automatisering av tester
-Puppet,Verktyg,Avvakta,TRUE,Ett verktyg för att på ett automatiserat sätt installera och konfigurera servrar.
+name,quadrant,ring,isNew,description,,,
+Scrum,Arbetssätt/Metod,Tillämpa,FALSE,Agil metodik med roller och ritualer ,,,
+SBE,Arbetssätt/Metod,Tillämpa,FALSE,Specification By Example. Ett sätt att arbeta fram och dokumentera krav som blir tydliga och enkla att förstå. Se även Cucumber.,,,
+Kanban,Arbetssätt/Metod,Tillämpa,FALSE,Ett verktyg för att visualisera kommande och pågående arbete samt möjlighet att identifiera flaskhalsar i flödet och organisera arbetet.,,,
+"Projektledning, agil",Arbetssätt/Metod,Tillämpa,FALSE,,,,
+Kibana / Elastic search,Plattform,Tillämpa,FALSE,Elk stacken,,,
+Mattermost,Plattform,Tillämpa,FALSE,"Chat, typ Slack",,,
+McCloud,Plattform,Tillämpa,FALSE,Intern molntjänst för IaaS (Infrastructure as a Service) som utvecklats på Lantmäteriet för att skapa och underhålla servrar på ett automatiserat sätt,,,
+OpenShift,Plattform,Tillämpa,FALSE,CaaS (Container as a Service) för drift av containers. Redhats anpassning av Kubernetes. ,,,
+Prometheus,Plattform,Tillämpa,FALSE,Hämta mätdata och metrics från applikationer,,,
+WSL,Plattform,Tillämpa,FALSE,Linux-distribution på Windows,,,
+JMS,Plattform,Tillämpa,FALSE,,,,
+Angular,Språk,Tillämpa,FALSE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter,,,
+React,Språk,Tillämpa,FALSE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter,,,
+gRPC,Språk,Tillämpa,FALSE,Kontraktsstyrt kommunikationsprotokoll som möjliggör kommunikation mellan backend-tjänster skrivna i olika språk.,,,
+Java 11,Språk,Tillämpa,FALSE,,,,
+Node.js,Språk,Tillämpa,FALSE,,,,
+TypeScript,Språk,Tillämpa,FALSE,,,,https://knowit.sharepoint.com/sites/Local-KTG-Gavle/_layouts/15/Doc.aspx?sourcedoc=%7BFAD90330-8F37-40A6-9F1C-88529BF9C553%7D&file=Tech%20Radar.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1
+Kotlin,Språk,Tillämpa,FALSE,"Programmeringsspråk framtaget av Jetbrains. Används ofta i Android-utveckling, men har även blivit populärt i backend.",,,
+Container med testdata,Verktyg,Tillämpa,FALSE,Docker eller liknande,,,
+Infrastruktur som kod,Verktyg,Tillämpa,FALSE,,,,
+Microservices,Verktyg,Tillämpa,FALSE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet.",,,
+Cucumber,Verktyg,Tillämpa,FALSE,Vertyg för dokumentation av krav (Gherkin-syntax) samt testautomatisering av dessa krav,,,
+Ansible,Verktyg,Tillämpa,FALSE,Vertyg för att skripta installationer av servrar och applikationer,,,
+Create-react-app,Verktyg,Tillämpa,FALSE,Verktyg för att skapa nytt och uppdatera befintligt React-projekt,,,
+Cypress,Verktyg,Tillämpa,FALSE,Vertyg för automatisering av testning av webbapplikationer,,,
+SonarQube,Verktyg,Tillämpa,FALSE,"Automatisk kodanalys för att se tekniskt skuld, testtäckning, möjliga buggar och för stora klasser, mm",,,
+.NET Core,Plattform,Tillämpa,TRUE,Gick från Utvärdera till Tillämpa 2022-03-30,,,
+MS SQL Server,Plattform,Utvärdera,FALSE,,,,
+TensorFlow,Plattform,Utvärdera,FALSE,Ramverk för AI/ML,,,
+Java 17,Språk,Utvärdera,FALSE,"Efter Java 11 är detta nästa LTS. Inte fullt supportad ännu, så ligger kvar i utvärdera efter uppdatering 2022-03-30.",,,
+GraphQL,Språk,Utvärdera,FALSE,,,,
+Quarkus,Språk,Utvärdera,FALSE,,,,
+AI/ML,Verktyg,Utvärdera,FALSE,,,,
+BPM,Verktyg,Utvärdera,FALSE,,,,
+Chaos Engineering,Verktyg,Utvärdera,FALSE,Injicera randomiserade problem i produktionsmiljö,,,
+Consumer-Driven Contract Testing,Verktyg,Utvärdera,FALSE,,,,
+DevSecOps,Verktyg,Utvärdera,FALSE,,,,
+Service Mesh,Verktyg,Utvärdera,FALSE,Konfigurerbar infrastruktur för Microservices,,,
+WireMock,Verktyg,Utvärdera,FALSE,Verktyg för att mocka REST-APIer via JSON-konfiguration,,,
+GoCD,Verktyg,Prova,FALSE,Byggserver för CI/CD,,,
+Matomo,Verktyg,Prova,FALSE,"Analysverkyg för webbapplikationer liknande Google Analytics, men med möjlighet att köra in-house.",,,
+Cobol,Språk,Avvakta,FALSE,Programmeringsspåk för stordator,,,
+SAFe by the book,Arbetssätt/Metod,Avvakta,FALSE,Ett stort paket med metder för att hantera beroenden mellan team och utvecklingsinsatser i stora organisationer,,,
+"Projektledning, traditionell",Arbetssätt/Metod,Avvakta,FALSE,,,,
+JMS/SOAP,Plattform,Avvakta,FALSE,Protokoll för kommunikation via meddelandebuss,,,
+SOAP,Plattform,Avvakta,FALSE,Format för strukturering av XML för användning t ex via webbservices eller meddelandebuss,,,
+JSF,Plattform,Avvakta,FALSE,,,,
+Low-code plattformar,Plattform,Avvakta,FALSE,,,,
+Oracle,Plattform,Avvakta,FALSE,Databas,,,
+ORM,Plattform,Avvakta,FALSE,"Verktyg för att mappa relationsdatabaser i kod, t ex Hibernate och Eclipselink",,,
+Weblogic Server,Plattform,Avvakta,FALSE,Applikationsserver för att drifta Java-applikationer,,,
+WebSphere,Plattform,Avvakta,FALSE,Applikationsserver för att drifta Java-applikationer,,,
+EJB,Språk,Avvakta,FALSE,,,,
+Java 8,Språk,Avvakta,FALSE,På grund av miljö är man ibland tvungen att välja Java 8,,,
+DB-länkar,Verktyg,Avvakta,FALSE,,,,
+ETE,Verktyg,Avvakta,FALSE,Häxkonst för testdata,,,
+FitNesse,Verktyg,Avvakta,FALSE,Ett testverktyg för automatisering av tester,,,
+Selenium,Verktyg,Avvakta,FALSE,"Ett verktyg för att programmatiskt köra webbapplikationer, t ex vid automatisering av tester",,,
+Puppet,Verktyg,Avvakta,FALSE,Ett verktyg för att på ett automatiserat sätt installera och konfigurera servrar.,,,
+Subversion,Verktyg,Avvakta,FALSE,,,,
+.NET Framework,Plattform,Avvakta,FALSE,,,,
+Postgres,Plattform,Tillämpa,TRUE,Databas. Tillkom vid uppdatering 2022-03-30 även om den använts länge.,,,
+ELM,Språk,Prova,TRUE,Ett funktionellt och typat språk. TIllkom vid uppfatering 2022-03-30,,,
+MongoDB,Plattform,Utvärdera,TRUE,"NoSQL-databas. Tillkom vid uppdatering 2022-03-30, men har använts några år i produktionssystem.",,,
+Spring Boot,Verktyg,Tillämpa,TRUE,"Ramverk för Java och Kotlin-applikationer. Har använts länge, men tillkom vid uppdatering 2022-03-30.",,,
+JBoss EAP,Plattform,Avvakta,TRUE,Applikationsserver. Är gammal teknologi och ska avvecklas. Tillkom vid uppdatering 2022-03-30.,,,
+Oauth2,Verktyg,Tillämpa,TRUE,Autentiseringsprotokoll som används t ex av API Manager. Tillkom vid uppdatering 2022-03-30.,,,
+PyTorch,Plattform,Utvärdera,TRUE,Verktyg för AI/ML. Tillkom vid uppdatering 2022-03-30.,,,
