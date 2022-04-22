@@ -1,9 +1,9 @@
 name,quadrant,ring,isNew,description
-Scrum,Arbetssätt/Metod,Tillämpa,TRUE,Agil metodik med roller och ritualer 
-"Projektledning, agil",Arbetssätt/Metod,Tillämpa,TRUE,
-Node.js,Språk,Tillämpa,TRUE,
-Microservices,Verktyg,Tillämpa,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
-SBE,Arbetssätt/Metod,Tillämpa,TRUE,Specification By Example. Ett sätt att arbeta fram och dokumentera krav som blir tydliga och enkla att förstå. Se även Cucumber.
+Scrum,Arbetssätt/Metod,Tillämpa,FALSE,Agil metodik med roller och ritualer 
+"Projektledning, agil",Arbetssätt/Metod,Tillämpa,FALSE,
+Node.js,Språk,Tillämpa,FALSE,
+Microservices,Verktyg,Tillämpa,FALSE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
+SBE,Arbetssätt/Metod,Tillämpa,FALSE,Specification By Example. Ett sätt att arbeta fram och dokumentera krav som blir tydliga och enkla att förstå. Se även Cucumber.
 Kanban,Arbetssätt/Metod,Tillämpa,FALSE,Ett verktyg för att visualisera kommande och pågående arbete samt möjlighet att identifiera flaskhalsar i flödet och organisera arbetet.
 SAFe-ish,Arbetssätt/Metod,Tillämpa,FALSE,"Plockat några godbitar ur SAFe, men kör inte hela paketet."
 Kibana / Elastic search,Plattform,Tillämpa,FALSE,Elk stacken
