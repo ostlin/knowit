@@ -1,28 +1,44 @@
 name,quadrant,ring,isNew,description
-Scrum,Arbetssätt/Metod,Tillämpa,TRUE,Agil metodik med roller och ritualer 
-"Projektledning, agil",Arbetssätt/Metod,Tillämpa,TRUE,
-.NET Core,Plattform,Tillämpa,TRUE,
-MS SQL Server,Plattform,Tillämpa,TRUE,Databas
-Angular,Språk,Tillämpa,TRUE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter
-Node.js,Språk,Tillämpa,TRUE,
-TypeScript,Språk,Tillämpa,TRUE,Språk för webbutveckling
-C#,Språk,Tillämpa,TRUE,
-Microservices,Verktyg,Utvärdera,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet."
-AI/ML,Verktyg,Utvärdera,TRUE,
-Azure,Plattform,Tillämpa,TRUE,"Molnplattform för drift av applikationer och system, ska användas Mining och Coromant."
-.NET Framework,Plattform,Avvakta,TRUE,"Används, men inget nytt byggs i detta. EOL"
-Sharepoint,Plattform,Avvakta,TRUE,
-Selenium,Verktyg,Prova,TRUE,
-Visual Studio,Verktyg,Tillämpa,TRUE,
-Jasmin/Karma,Verktyg,Tillämpa,TRUE,Testramverk för JS-tester av
-AngularJS,Språk,Avvakta,TRUE,Gammal version av Angular EOL
-MS DevOps,Verktyg,Tillämpa,TRUE,"Verktyg för Kanban, CI/CD och versionshantering"
-git,Verktyg,Tillämpa,TRUE,Versionshanteringsverktyg
-Slack,Plattform,Tillämpa,TRUE,
-MS Teams,Plattform,Tillämpa,TRUE,
-Visual Code,Verktyg,Tillämpa,TRUE,
-Powershell,Språk,Tillämpa,TRUE,
-Splunk,Plattform,Tillämpa,TRUE,Loggverktyg
-Google Analytics,Verktyg,Tillämpa,TRUE,
-Entity Framework,Språk,Tillämpa,TRUE,ORM-verktyg
-Vue,Språk,Tillämpa,TRUE,
+Scrum,Arbetssätt/Metod,Tillämpa,FALSE,Agil metodik med roller och ritualer 
+"Projektledning, agil",Arbetssätt/Metod,Tillämpa,FALSE,
+.NET Core,Plattform,Tillämpa,FALSE,
+MS SQL Server,Plattform,Tillämpa,FALSE,Databas
+Angular,Språk,Tillämpa,FALSE,Javascript-ramverk för att bygga Singe page-webapplikationer med komponenter
+Node.js,Språk,Tillämpa,FALSE,
+TypeScript,Språk,Tillämpa,FALSE,Språk för webbutveckling
+C#,Språk,Tillämpa,FALSE,
+Microservices,Verktyg,Tillämpa,TRUE,"Arkitekturprincip för system för att skapa mindre, oberoende beståndsdelar med avgränsade ansvarsområden för att möjliggöra lättrörlighet och återanvändbarhet. Flyttades från Utvärdera till Tillämpa vid uppdatering 2022-04-12."
+AI/ML,Verktyg,Utvärdera,FALSE,
+Azure,Plattform,Tillämpa,FALSE,"Molnplattform för drift av applikationer och system, ska användas Mining och Coromant."
+.NET Framework,Plattform,Avvakta,FALSE,"Används, men inget nytt byggs i detta. EOL"
+Sharepoint,Plattform,Avvakta,FALSE,
+Selenium,Verktyg,Prova,FALSE,
+Visual Studio,Verktyg,Tillämpa,FALSE,
+Jasmin/Karma,Verktyg,Tillämpa,FALSE,Testramverk för JS-tester av
+AngularJS,Språk,Avvakta,FALSE,Gammal version av Angular EOL
+MS DevOps,Verktyg,Tillämpa,FALSE,"Verktyg för Kanban, CI/CD och versionshantering"
+git,Verktyg,Tillämpa,FALSE,Versionshanteringsverktyg
+Slack,Plattform,Tillämpa,FALSE,
+MS Teams,Plattform,Tillämpa,FALSE,
+Visual Code,Verktyg,Tillämpa,FALSE,
+Powershell,Språk,Tillämpa,FALSE,
+Splunk,Plattform,Tillämpa,FALSE,Loggverktyg
+Google Analytics,Verktyg,Tillämpa,FALSE,
+Entity Framework,Språk,Tillämpa,FALSE,ORM-verktyg
+Vue,Språk,Tillämpa,FALSE,
+Sonarqube,Verktyg,Tillämpa,TRUE,"Verktyg för analys av kod för att mäta testtäckning, refaktoreringsmöjligheter mm. Tillkom vid uppdatering 2022-04-12."
+Kanban,Arbetssätt/Metod,Tillämpa,TRUE,Metod för att visualisera arbete och hitta köer i flöden av arbetsuppgifter. Tillkom vid uppdatering 2022-04-12.
+JMS,Plattform,Tillämpa,TRUE,Kommunikationsprotokoll (över meddelandebuss) för kommunikation mellan system. Tillkom vid uppdateriong 2022-04-12.
+EJB,Språk,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Java 8,Språk,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Infrastruktur som kod,Verktyg,Tillämpa,TRUE,"Sätt att kunna återskapa allt inom infrastrukturen via versionshanterad ""källkod"". Tillkom vid uppdatering 2022-04-12."
+SOAP,Plattform,Tillämpa,TRUE,Format för strukturering av XML för användning t ex via webbservices eller meddelandebuss. Tillkom vid uppdatering 2022-04-12.
+Oracle,Plattform,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+WebSphere,Plattform,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Subversion,Verktyg,Avvakta,TRUE,Versionshantering. Tillkom vid uppdatering 2022-04-12.
+Java 17,Språk,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Glassfish/Payara,Plattform,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Nexus,Verktyg,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Jenkins,Verktyg,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Azure - DevOps (Git och TFS),Verktyg,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
+Azure - hosting,Plattform,Tillämpa,TRUE,Tillkom vid uppdatering 2022-04-12.
